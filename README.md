@@ -3,7 +3,6 @@
 
 I'm currently working on Compu Campo SA de CV as a Software Developer, I'm working on C# making API's, IIS websites, Desktop Aplications and DBA
 # Skills
-</br>
 ##BackEnd
 [![C#](https://img.shields.io/badge/csharp-434738?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
 [![C++](https://img.shields.io/badge/c++-B5D43C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)]()
