@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm currently working on Compu Campo SA de CV as a Software Developer, I'm working on C# making API's, IIS websites, Desktop Aplications and DBA
 ## Skills
 
-[![CSHARP](https://img.shields.io/badge/csharp-999999?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
+[![CSHARP](https://img.shields.io/badge/csharp-B5D43C?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
