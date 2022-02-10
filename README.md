@@ -1,24 +1,17 @@
-### Hi there my name is Angel Ruvalcaba👋
+# Hi there my name is Angel Ruvalcaba👋
 
-<!--
-**AnRuvalcaba123/AnRuvalcaba123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 I'm currently working on Compu Campo SA de CV as a Software Developer, I'm working on C# making API's, IIS websites, Desktop Aplications and DBA
-## Skills
-
-[![CSHARP](https://img.shields.io/badge/csharp-434738?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
+# Skills
+##BackEnd
+[![C#](https://img.shields.io/badge/csharp-434738?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
 [![C++](https://img.shields.io/badge/c++-B5D43C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/python-D9EF81?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/java-F7F7F7?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 </br>
+##FrontEnd
+[![HTML](https://img.shields.io/badge/html-434738?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-B5D43C?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
+##DataBase
+[![SQL](https://img.shields.io/badge/sql-D9EF81?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/mysql-F7F7F7?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
