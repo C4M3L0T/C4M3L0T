@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 I'm currently working on Compu Campo SA de CV as a Software Developer, I'm working on C# making API's, IIS websites, Desktop Aplications and DBA
 ## Skills
 
-:[Android](https://img.shields.io/badge/Android-3D0C84?style=for-the-badge&logo=android)</br>
+![Android](https://img.shields.io/badge/Android-3D0C84?style=for-the-badge&logo=android)</br>
