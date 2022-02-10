@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 I'm currently working on Compu Campo SA de CV as a Software Developer, I'm working on C# making API's, IIS websites, Desktop Aplications and DBA
 ## Skills
 
-![C#](https://img.shields.io/static/v1?label=CSharp&message=&color=<FFFFFF>?style=for-the-badge&logo=appveyor)</br>
+![C#](https://img.shields.io/static/v1?label=CSharp&message=CSHARP&color=<FFFFFF>?style=for-the-badge&logo=https://images.cults3d.com/iQgdEZYLHqJN_4xOs8-5gsd0ft8=/516x516/https://files.cults3d.com/uploaders/13889723/illustration-file/88f914f9-4ec0-4d0c-8ebb-5edc51f4b3cd/kali_linux.jpg)</br>
