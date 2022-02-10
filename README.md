@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there my name is Angel Ruvalcaba👋
 
 <!--
 **AnRuvalcaba123/AnRuvalcaba123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently working on Compu Campo SA de CV as a Software Developer, I'm working on C# making API's, IIS websites, Desktop Aplications and DBA
+## Skills
+
+:[Android](https://img.shields.io/badge/Android-3D0C84?style=for-the-badge&logo=android)</br>
