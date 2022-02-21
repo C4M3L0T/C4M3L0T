@@ -10,8 +10,8 @@ I'm currently working on Compu Campo SA de CV as a Software Developer, I'm worki
 [![Java](https://img.shields.io/badge/java-F7F7F7?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 </br>
 
-[![HTML](https://img.shields.io/badge/html-434738?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/CSS-B5D43C?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
+[![HTML5](https://img.shields.io/badge/html-434738?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS3](https://img.shields.io/badge/CSS-B5D43C?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 </br>
 
 [![SQL](https://img.shields.io/badge/sql-D9EF81?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
